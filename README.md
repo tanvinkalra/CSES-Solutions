@@ -10,6 +10,7 @@ Solutions for CSES Problem Set
 ### Introductory Problems
 
 - [Weird Algorithm](Introductory%20Problems/Weird%20Algorithm.cpp)
+- [Missing Number](Introductory%20Problems/Missing%20Number.cpp)
 
 ### Dynamic Programming
 
