@@ -13,6 +13,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Missing Number](Introductory%20Problems/Missing%20Number.cpp)
 - [Repetitions](Introductory%20Problems/Repetitions.cpp)
 - [Increasing Array](Introductory%20Problems/Increasing%20Array.cpp)
+- [Permutations](Introductory%20Problems/Permutations.cpp)
 
 ### Dynamic Programming
 
