@@ -1,11 +1,17 @@
 # CSES-Solutions
+
 Solutions for CSES Problem Set
 
 ## Table of Contents
 
-- [Dynamic Programming](#Dynamic%20%Programming)
+- [Introductory Problems](Introductory%20Problems)
+- [Dynamic Programming](Dynamic%20Programming)
+
+### Introductory Problems
+
+- [Weird Algorithm](Introductory%20Problems/Weird%20Algorithm.cpp)
 
 ### Dynamic Programming
 
--[Dice Combinations](#Dynamic%20%Programming/Dice%20%Combinations.cpp)
--[Minimizing Coins](#Dynamic%20%Programming/Minimizing%20%Coins.cpp)
+- [Dice Combinations](Dynamic%20Programming/Dice%20Combinations.cpp)
+- [Minimizing Coins](Dynamic%20Programming/Minimizing%20Coins.cpp)
