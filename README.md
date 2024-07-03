@@ -1,6 +1,6 @@
 # CSES-Solutions
 
-Solutions for CSES Problem Set
+Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 
 ## Table of Contents
 
