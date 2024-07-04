@@ -16,6 +16,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Increasing Array](Introductory%20Problems/Increasing%20Array.cpp)
 - [Permutations](Introductory%20Problems/Permutations.cpp)
 - [Number Spiral](Introductory%20Problems/Number%20Spiral.cpp)
+- [Bit Strings](Introductory%20Problems/Bit%20Strings.cpp)
 
 ### Sorting and Searching
 
