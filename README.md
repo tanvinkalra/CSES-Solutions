@@ -19,6 +19,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 ### Sorting and Searching
 
 - [Distinct Numbers](Sorting%20and%20Searching/Distinct%20Numbers.cpp)
+- [Ferris Wheel](Sorting%20and%20Searching/Ferris%20Wheel.cpp)
 
 ### Dynamic Programming
 
