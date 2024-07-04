@@ -5,6 +5,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 ## Table of Contents
 
 - [Introductory Problems](Introductory%20Problems)
+- [Sorting and Searching](Sorting%20and%20Searching)
 - [Dynamic Programming](Dynamic%20Programming)
 
 ### Introductory Problems
@@ -14,6 +15,10 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Repetitions](Introductory%20Problems/Repetitions.cpp)
 - [Increasing Array](Introductory%20Problems/Increasing%20Array.cpp)
 - [Permutations](Introductory%20Problems/Permutations.cpp)
+
+### Sorting and Searching
+
+- [Distinct Numbers](Sorting%20and%20Searching/Distinct%20Numbers.cpp)
 
 ### Dynamic Programming
 
