@@ -29,6 +29,8 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Restaurant Customers](Sorting%20and%20Searching/Restaurant%20Customers.cpp)
 - [Sum of Two Values](Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp)
 - [Maximum Subarray Sum](Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
+- [PlayList](Sorting%20and%20Searching/Playlist.cpp)
+- [Factory Machines](Sorting%20and%20Searching/Factory%20Machines.cpp)
 
 ### Dynamic Programming
 
