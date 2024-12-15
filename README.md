@@ -30,6 +30,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Sum of Two Values](Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp)
 - [Maximum Subarray Sum](Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
 - [PlayList](Sorting%20and%20Searching/Playlist.cpp)
+- [Towers](Sorting%20and%20Searching/Towers.cpp)
 - [Josephus Problem I](Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)
 - [Factory Machines](Sorting%20and%20Searching/Factory%20Machines.cpp)
 
