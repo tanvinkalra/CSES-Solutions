@@ -35,6 +35,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Towers](Sorting%20and%20Searching/Towers.cpp)
 - [Josephus Problem I](Sorting%20and%20Searching/Josephus%20Problem%20I.cpp)
 - [Factory Machines](Sorting%20and%20Searching/Factory%20Machines.cpp)
+- [Subarray Sums I](Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
 
 ### Dynamic Programming
 
