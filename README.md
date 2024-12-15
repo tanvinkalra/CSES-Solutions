@@ -26,6 +26,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 
 - [Distinct Numbers](Sorting%20and%20Searching/Distinct%20Numbers.cpp)
 - [Ferris Wheel](Sorting%20and%20Searching/Ferris%20Wheel.cpp)
+- [Concert Tickets](Sorting%20and%20Searching/Concert%20Tickets.cpp)
 - [Restaurant Customers](Sorting%20and%20Searching/Restaurant%20Customers.cpp)
 - [Sum of Two Values](Sorting%20and%20Searching/Sum%20of%20Two%20Values.cpp)
 - [Maximum Subarray Sum](Sorting%20and%20Searching/Maximum%20Subarray%20Sum.cpp)
