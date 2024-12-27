@@ -39,6 +39,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Factory Machines](Sorting%20and%20Searching/Factory%20Machines.cpp)
 - [Nearest Smaller Values](Sorting%20and%20Searching/Nearest%20Smaller%20Values.cpp)
 - [Subarray Sums I](Sorting%20and%20Searching/Subarray%20Sums%20I.cpp)
+- [Subarray Divisibility](Sorting%20and%20Searching/Subarray%20Divisibility.cpp)
 
 ### Dynamic Programming
 
