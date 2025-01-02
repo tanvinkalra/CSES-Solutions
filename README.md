@@ -19,6 +19,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Two Sets](Introductory%20Problems/Two%20Sets.cpp)
 - [Bit Strings](Introductory%20Problems/Bit%20Strings.cpp)
 - [Trailing Zeros](Introductory%20Problems/Trailing%20Zeros.cpp)
+- [Coin Piles](Introductory%20Problems/Coin%20Piles.cpp)
 - [Palindrome Reorder](Introductory%20Problems/Palindrome%20Reorder.cpp)
 - [Creating Strings](Introductory%20Problems/Creating%20Strings.cpp)
 
