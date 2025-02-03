@@ -56,3 +56,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Grid Paths](Dynamic%20Programming/Grid%20Paths.cpp)
 - [Book Shop](Dynamic%20Programming/Book%20Shop.cpp)
 - [Two Sets II](Dynamic%20Programming/Two%20Sets%20II.cpp)
+
+### Graph Algorithms
+
+- [Counting Rooms](Graph%20Algorithms/Counting%20Rooms.cpp)
