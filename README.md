@@ -22,6 +22,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 - [Coin Piles](Introductory%20Problems/Coin%20Piles.cpp)
 - [Palindrome Reorder](Introductory%20Problems/Palindrome%20Reorder.cpp)
 - [Creating Strings](Introductory%20Problems/Creating%20Strings.cpp)
+- [Chessboard and Queens](Introductory%20Problems/Chessboard%20and%20Queens.cpp)
 
 ### Sorting and Searching
 
