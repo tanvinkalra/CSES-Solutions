@@ -27,6 +27,7 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 ### Sorting and Searching
 
 - [Distinct Numbers](Sorting%20and%20Searching/Distinct%20Numbers.cpp)
+- [Apartments](Sorting%20and%20Searching/Apartments.cpp)
 - [Ferris Wheel](Sorting%20and%20Searching/Ferris%20Wheel.cpp)
 - [Concert Tickets](Sorting%20and%20Searching/Concert%20Tickets.cpp)
 - [Restaurant Customers](Sorting%20and%20Searching/Restaurant%20Customers.cpp)
