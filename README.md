@@ -64,3 +64,4 @@ Solutions for CSES Problem Set written by [shyy](https://cses.fi/user/222215)
 ### Graph Algorithms
 
 - [Counting Rooms](Graph%20Algorithms/Counting%20Rooms.cpp)
+- [Labyrinth](Graph%20Algorithms/Labyrinth.cpp)
